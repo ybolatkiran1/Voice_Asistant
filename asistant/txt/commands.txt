@@ -1,0 +1,15 @@
+nasılsın / ne haber: Asistanın durumunu söyler.
+iyiyim: İyi olduğuna sevindiğini söyler.
+saat kaç: Geçerli saati söyler.
+arama yap: Google üzerinde arama yapar.
+hava nasıl / hava durumu: Belirtilen şehir için hava durumunu söyler.
+şaka yap: Asistan bir şaka yapar.
+fıkra anlat: Bir fıkra anlatır.
+tavsiye ver: Genel bir tavsiye verir.
+bilgi ver: Belirtilen konuda kısa bir bilgi verir.
+film öner: Bir film önerir.
+kitap öner: Bir kitap önerir.
+müzik öner: Bir şarkı veya müzik önerir.
+rastgele bilgi: Rastgele ilginç bir bilgi verir.
+günün sözü: Günün motivasyon sözü verir.
+burç yorumu: Belirtilen burcun günlük yorumunu yapar.

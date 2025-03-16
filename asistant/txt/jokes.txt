@@ -1,0 +1,70 @@
+Bilgisayar korsanı pizzacıya gitmiş, "Kodu ver, hemen açıyorum!" demiş.  
+Kod yazarken kahve içmek neden önemlidir? Çünkü kodun çalışmadığında en azından kahven olur!  
+Bilgisayar mühendisi düğüne gitmiş ama içeri alınmamış. Neden? Çünkü davetiyesinde "Beta sürüm" yazıyormuş.  
+Programcı sabah uyanınca ne yapar? return;  
+Neden tüm programcılar gece kod yazar? Çünkü gece daha az hata verir!  
+"Parolamı unuttum" diyerek sisteme giriş yapmaya çalışan adam, sistemin ona "Şifren 8 karakter olmalı" demesi üzerine "Snow White" yazmış.  
+İki bilgisayar mühendisi bir bara girmiş... ve hemen çıkmışlar çünkü "Access Denied" mesajı almışlar.  
+Bilgisayar neden kötü şakalar yapar? Çünkü her zaman 0 ve 1 arasında gidip gelir!  
+İki yazılımcı bir bara gitmiş, biri diğerine "Sen neden suskunsun?" demiş. Cevap: "Ben sadece yorum satırıyım!"  
+Kodlamaya yeni başlayan adam neden sürekli geri düğmesine basıyormuş? Çünkü hayatında bir hata yapmaya tahammülü yokmuş!  
+Bilgisayar virüsü psikoloğa gitmiş. Psikolog sormuş: "Ne sıkıntın var?" Virüs: "Beni kimse istemiyor!"  
+İki bilgisayar bir çay bahçesinde oturuyormuş. Biri diğerine: "Seninle bağlantımız çok güçlü, hep kablosuz muhabbet ediyoruz!"  
+Kod yazarken hata yapan programcı ne yapar? Google'da "Nasıl yazılım mühendisi olunur?" diye arama yapar.  
+Programcı neden gökyüzüne bakarken şaşkınlık yaşadı? Çünkü bulut çökmüştü!  
+İki yazılımcı kavga etmiş, biri diğerine "Seninle artık asenkron çalışıyoruz!" demiş.  
+Bilgisayar korsanı manava gitmiş, "Elmaların şifresi ne?" diye sormuş.  
+Yazılımcı neden fırında kalmış? Çünkü "while (true)" kullanmış!  
+Yeni mezun programcı iş görüşmesine gitmiş. Müdür: "Hangi programlama dillerini biliyorsun?" Programcı: "Ctrl+C, Ctrl+V."  
+Kod neden ağladı? Çünkü içinde fazla bug vardı!  
+Bir yazılımcı neden kıyafet almaz? Çünkü her zaman varsayılan ayarlarda yaşar.  
+Kod yazarken hata yapınca ne denir? "Debug'lı günler!"  
+Bir programcı neden denize düştü? Çünkü akışı doğru takip edemedi.  
+Yazılımcı neden dükkan açtı? Çünkü artık "ticari yazılım" yapmak istiyordu!  
+Programcı neden tarih dersinde başarısız oldu? Çünkü geçmişte fazla bug vardı!  
+Bilgisayar neden tatil yapmaz? Çünkü her zaman çalıştırılır.  
+Yazılımcı neden fırında çalışmaz? Çünkü kodlar sıcaklığa duyarlıdır!  
+Kod yazarken kahve bittiğinde ne olur? Derin bir hata!  
+Yazılım mühendisi spor salonuna gitmiş ama spor yapamamış. Çünkü hep while döngüsüne takılmış.  
+Kod neden sıkıldı? Çünkü hep aynı döngüye giriyordu.  
+Bilgisayar korsanı neden bisiklete binmez? Çünkü hep bypass yapar!  
+İki programcı neden asla kavga etmez? Çünkü her zaman birbirlerini hata ayıklayarak anlarlar!  
+Bilgisayar neden çok konuşmaz? Çünkü genelde sessiz modda çalışır.  
+Bir programcı neden tavuk çiftliği açtı? Çünkü hatalarını kapatmak için "debug" yapıyordu!  
+Yeni programcı neden moralini bozdu? Çünkü kodu çalışınca "Infinite Loop" olmuş!  
+Bilgisayar neden kitap okumaz? Çünkü sadece veritabanıyla ilgilenir!  
+Kod yazan adam neden sürekli kahve içer? Çünkü fonksiyonları düzgün çalışsın diye!  
+Bilgisayar neden küser? Çünkü ona yanlış veri girildiğinde alınganlık yapar.  
+Klavye neden güler? Çünkü her zaman "Enter" tuşuyla yeni maceralara atılır!  
+Bilgisayar neden çok yalnız? Çünkü hep "kendi başına çalışıyor!"  
+İnternetsiz bir programcı ne yapar? Kod yazmayı öğrenmeye çalışır!  
+Yazılımcı neden asla tatil yapmaz? Çünkü her zaman işleyişi optimize etmeye çalışır!  
+Bilgisayar neden bozuldu? Çünkü işlemcisi "çok düşündü"!  
+Kod yazarken en büyük hata nedir? "Syntax error" ve sonra her şeyi baştan yazmak.  
+İki programcı karşılaşınca ne yapar? API çağrısı yaparlar!  
+Kod neden evlenmez? Çünkü her zaman bağlılık sorunları yaşar!  
+Yazılımcılar neden köpek sevmez? Çünkü hep "Cat" kullanırlar!  
+Programcı neden televizyon izlemez? Çünkü her zaman "script" takip eder!  
+Klavye neden en mutlu ofis eşyasıdır? Çünkü her zaman "Space" vardır!  
+Bilgisayar neden pizzaya bayılır? Çünkü her şey dilimler halinde daha kolaydır!  
+İki bilgisayar birbirine ne der? "Senin RAM'ini çok seviyorum!"  
+Kodun en büyük düşmanı nedir? Kullanıcı girişleri!  
+Neden yazılımcılar hep siyah tişört giyer? Çünkü renk seçimi yapmak fazla zaman alır!  
+Kod neden tatile gitmez? Çünkü her zaman derlenmesi gerekiyor!  
+İki kod satırı neden anlaşamadı? Çünkü biri diğerinin formatını anlamıyordu!  
+Bilgisayar neden mutlu olur? Çünkü her zaman güncellenir!  
+Programcı neden yaz tatilinde bile kod yazar? Çünkü "dinamik dinlenme" diye bir şey vardır!  
+Yazılım geliştirme neden evlilik gibidir? Çünkü hata yapınca geri dönüş çok zor olur!  
+Kod neden asla susmaz? Çünkü hep "log" tutar!  
+Kod yazan adam neden hep şikayet eder? Çünkü hep "debug" yapmak zorunda!  
+Programcı neden doktor olamaz? Çünkü her şeyi sadece "if-else" ile çözmeye çalışır!  
+Klavye neden hep sabırsızdır? Çünkü sürekli "Enter" tuşuna basılır!  
+Bir programcı neden diyet yapamaz? Çünkü hep "Snack Overflow" yaşar!  
+Yazılımcı neden ormanda kaybolmaz? Çünkü her zaman yolu takip eden bir algoritması vardır!  
+Kodun en kötü korkusu nedir? "Unhandled Exception!"  
+Bilgisayar neden spor yapmaz? Çünkü hep "Idle" modunda bekler!  
+Yazılımcı neden tarih kitapları okumaz? Çünkü geçmiş hatalarla ilgilenmez!  
+Bilgisayar neden arkadaş edinmez? Çünkü hep kendi veritabanında takılır!  
+İnternet kesildiğinde yazılımcı ne yapar? Bilgisayara bakıp ağlar!  
+Programcı neden denize giremez? Çünkü sürekli "Stack Overflow" yaşar!  
+Bilgisayar neden uyumaz? Çünkü hep bir "işlem" vardır!  
